@@ -1,0 +1,41 @@
+/*
+* {
+    border: 2px solid red;
+  }
+*/
+
+
+* {
+  background: peachpuff;
+}
+
+.Description {  
+  margin: 25px;
+  height: 200;
+  width: 50;
+  font-size: 18px;
+  color: solid brown;
+  box-sizing: border-box;
+}
+
+.Ingredients {
+  margin: 25px;
+  height: 200;
+  width: 50;
+  font-size: 18px;
+  color: solid brown;
+  box-sizing: border-box;
+}
+
+.Directions {
+  margin: 25px;
+  height: 200;
+  width: 50;
+  font-size: 18px;
+  color: solid brown;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 25px;
+}
